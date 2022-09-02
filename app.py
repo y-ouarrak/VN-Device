@@ -1,3 +1,3 @@
-from src import client 
+from src import client
 
 client.loop_forever()
